@@ -3,7 +3,7 @@
     display: inline-block;
     height: 64px;
     width: 64px;
-    background-image: url(sheet_apple_64.png);
+    background-image: url("https://raw.githubusercontent.com/MoriXplus/emoji-data-css/master/files/sheet_apple_64.png");
     background-repeat: no-repeat;
 }
     
